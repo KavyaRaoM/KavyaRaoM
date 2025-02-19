@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Kavya Rao  
+🚀 **Senior Software Developer** | Senior Software Developer
 
-<!--
-**KavyaRaoM/KavyaRaoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **7+ years of experience** in designing, developing, and testing enterprise applications across **Healthcare, Retail, and Finance** industries.  
+🔹 Passionate about **Java, Spring Boot, Microservices, React, Angular, AWS, and DevOps**.  
+🔹 Love solving complex problems, optimizing performance, and sharing tech insights.  
 
-Here are some ideas to get you started:
+## 💻 Tech Stack  
+🔹 **Frontend:** HTML5, CSS3, JavaScript, React.js, Angular  
+🔹 **Backend:** Java, Spring Boot, Node.js, Express.js  
+🔹 **Databases:** PostgreSQL, MongoDB, MySQL  
+🔹 **DevOps & Cloud:** AWS, Docker, Kubernetes, CI/CD, Jenkins  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
