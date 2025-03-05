@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Kavya Marthineni  
-🚀 **Software Developer**
 
-🔹 **3+ years of experience** in designing, developing, and testing enterprise applications.  
+**Looking for Software Developer / Full Stack Developer positions** 
+
+🔹 With over 3+ years of experience in designing, developing, and testing enterprise applications.  
 🔹 Passionate about **Java, Python, Spring Boot, Microservices, React, Angular, AWS, and DevOps**.  
 🔹 Love solving complex problems, optimizing performance, and sharing tech insights.  
 
@@ -10,4 +11,8 @@
 🔹 **Backend:** Java, Spring Boot, Node.js
 🔹 **Databases:** PostgreSQL, MongoDB, MySQL  
 🔹 **DevOps & Cloud:** AWS, Docker, Kubernetes 
+
+### 📫 How to reach me:
+- **Email**: kavya.00marthineni@gmail.com
+- **LinkedIn**:
 
