@@ -14,5 +14,5 @@
 
 ### 📫 How to reach me:
 - **Email**: kavya.00marthineni@gmail.com
-- **LinkedIn**:
+- **LinkedIn**:www.linkedin.com/in/kavya-marthineni-b5b0412b2
 
