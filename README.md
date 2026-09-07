@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Kavya Marthineni
 
-Software developer with an M.S. in Computer Science and experience in
-full-stack development, backend systems, automation, and AI-powered applications.
+Software developer with an M.S. in Computer Science and experience in full-stack development, backend systems, automation, and AI-powered applications.
 
-I work with Java, C#, Python, JavaScript, SQL, and React, with experience
-building REST APIs, database-backed applications, and LangChain-based solutions.
+I work with Java, C#, Python, JavaScript, SQL, and React, with experience building REST APIs, database-backed applications, and LangChain-based solutions.
 
 ## 💻 Tech Stack
 
