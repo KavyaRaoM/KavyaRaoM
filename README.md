@@ -1,16 +1,19 @@
-# 👋 Hi, I'm Kavya Marthineni  
+# 👋 Hi, I'm Kavya Marthineni
 
-**Looking for Software Developer / Full Stack Developer positions** 
+Software developer with an M.S. in Computer Science and experience in
+full-stack development, backend systems, automation, and AI-powered applications.
 
-🔹 With over 3+ years of experience in designing, developing, and testing enterprise applications.  
-🔹 Passionate about **Java, Python, Spring Boot, Microservices, React, Angular, AWS, and DevOps**.  
-🔹 Love solving complex problems, optimizing performance, and sharing tech insights.  
+I work with Java, C#, Python, JavaScript, SQL, and React, with experience
+building REST APIs, database-backed applications, and LangChain-based solutions.
 
-## 💻 Tech Stack  
-🔹 **Frontend:** HTML5, CSS3, JavaScript, React.js, Angular  
-🔹 **Backend:** Java, Spring Boot, Node.js
-🔹 **Databases:** PostgreSQL, MongoDB, MySQL  
-🔹 **DevOps & Cloud:** AWS, Docker, Kubernetes 
+## 💻 Tech Stack
+
+**Languages:** Java, C#, Python, JavaScript, SQL  
+**Frontend:** React, HTML5, CSS3  
+**Backend:** ASP.NET Core, FastAPI, REST APIs  
+**AI:** LangChain  
+**Databases:** PostgreSQL, MongoDB, SQL Server  
+**Cloud & Tools:** AWS, Docker, Git, GitHub, Jenkins
 
 ### 📫 How to reach me:
 - **Email**: kavya.00marthineni@gmail.com
